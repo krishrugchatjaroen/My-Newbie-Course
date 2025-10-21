@@ -107,19 +107,19 @@ Schedule day 1:
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Define: the concepts of Fiscal Policy, Public Revenue, Public Expenditure, and Public Debt.
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Discuss and explain: the underlying rationale for government intervention in the economy (e.g., market failures like externalities and public goods).
 >
-> 3. Apply and modify ..... [Applying] 
+> 3. Apply and modify: the concept of tax incidence to determine who ultimately bears the burden of a newly introduced sales tax.
 >
-> 4. Compare ..... [Analysing] 
+> 4. Compare: the effects of financing a budget deficit through borrowing (debt) versus through money creation (seigniorage).
 >
-> 5. Evaluate and select ..... [Evaluating] 
+> 5. Evaluate and select: the fiscal sustainability of a national debt trajectory using metrics like the debt-to-GDP ratio and interest payments as a percentage of revenue.
 >
-> 6. Create and integrate ..... [Creating]
+> 6. Create and integrate: an analytical framework for monitoring the transparency and accountability of government expenditure programs.
 >
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+>> Based on [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
 >
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
