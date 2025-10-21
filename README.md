@@ -46,7 +46,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 -->
 
-# Course Title (GITHUB SO AWESOME)
+# Course Title : FISCAL POLICY
 
 <section>
 
@@ -98,9 +98,9 @@ Schedule day 1:
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. Basic Public Policy 
+> 2. Basic knowledge of Public Administration
+> 3. Being comfortable working with government 
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
