@@ -1,9 +1,9 @@
 <!--
-author:   Krish Rugchatjaroen
-email:    krishphdmu@live.com
+author:   name last_name
+email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
-narrator: Thailand
+narrator: UK English Female
 
 icon:     https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg
 
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
