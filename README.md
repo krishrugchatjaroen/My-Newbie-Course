@@ -102,7 +102,7 @@ Schedule day 1:
 > 2. Basic knowledge of Public Administration
 > 3. Being comfortable working with government 
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  This course provides a comprehensive and analytical examination of Fiscal Policy, the government's use of taxation (Public Revenue) and spending (Public Expenditure) to influence the macro-economy. Students will move beyond basic definitions to rigorously analyze the efficiency, equity, and stabilization effects of various fiscal instruments. The course is structured to explore the theoretical frameworks (Classical, Keynesian, Ricardian), the practical mechanics of government budgeting, and the critical policy challenges related to sustainable debt, income redistribution, and financing long-term economic growth. Through case studies and quantitative analysis, students will develop the skills to critically evaluate current fiscal debates and propose informed policy recommendations.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
@@ -265,6 +265,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
