@@ -54,6 +54,7 @@ Hello and welcome to course
 
 ## Training Video
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/yourvideoid" frameborder="0" allowfullscreen></iframe>
 ![Video](https://github.com/krishrugchatjaroen/My-Newbie-Course/blob/main/images/S__1785912.jpg)
 [Watch on YouTube](https://youtu.be/ci1ND5dbkFY) 
 
@@ -268,6 +269,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
