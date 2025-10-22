@@ -56,16 +56,12 @@ Hello and welcome to course
 
 [Watch on YouTube](https://github.com/krishrugchatjaroen/My-Newbie-Course/blob/main/images/782823256.071316.mp4) 
 
-![Video](https://github.com/krishrugchatjaroen/My-Newbie-Course/blob/main/images/S__1785912.jpg)
+(https://github.com/krishrugchatjaroen/My-Newbie-Course/blob/main/images/S__1785912.jpg)
 [Watch on YouTube](https://youtu.be/ci1ND5dbkFY) 
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
-
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
-
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
+This course provides a comprehensive and analytical examination of Fiscal Policy, the government's use of taxation (Public Revenue) and spending (Public Expenditure) to influence the macro-economy. Students will move beyond basic definitions to rigorously analyze the efficiency, equity, and stabilization effects of various fiscal instruments. The course is structured to explore the theoretical frameworks (Classical, Keynesian, Ricardian), the practical mechanics of government budgeting, and the critical policy challenges related to sustainable debt, income redistribution, and financing long-term economic growth. Through case studies and quantitative analysis, students will develop the skills to critically evaluate current fiscal debates and propose informed policy recommendations.
 
 The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md).
 
@@ -261,6 +257,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
