@@ -55,7 +55,7 @@ Hello and welcome to course
 ## Training Video
 
 ![Video](https://img.youtube.com/vi/yourvideoid/0.jpg)  
-[Watch on YouTube](https://www.youtube.com/watch?v=yourvideoid)
+[Watch on YouTube](https://youtu.be/ci1ND5dbkFY) 
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -268,6 +268,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
