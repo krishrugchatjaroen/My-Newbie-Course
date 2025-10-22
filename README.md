@@ -50,9 +50,12 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"
 
 <section>
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to course
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
+## Training Video
+
+![Video](https://img.youtube.com/vi/yourvideoid/0.jpg)  
+[Watch on YouTube](https://www.youtube.com/watch?v=yourvideoid)
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -265,6 +268,7 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
   ]
 }
 ```
+
 
 
 
